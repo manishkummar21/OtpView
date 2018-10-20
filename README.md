@@ -37,3 +37,9 @@ Step 3. Include the View in XML
   
 
  Note : You Can Change the length of Chars by setting attribute in maxlength.
+ 
+ 
+  ![ScreenShot](https://github.com/manishkummar21/OtpView/blob/master/device-2018-10-20-142256.png)
+  ![ScreenShot](https://github.com/manishkummar21/OtpView/blob/master/device-2018-10-20-142315.png)
+
+
